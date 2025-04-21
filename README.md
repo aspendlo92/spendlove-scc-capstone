@@ -1,5 +1,5 @@
 # Andy Spendlove: Swire Coca Cola Capstone Competition
-This portfolio summarizes my contributions and key takeaways from the capstone project in the MSBA program at the University of Utah, where we analyzed a variety of data including customer profiles, transactions, and delivery costs, to identify trends, create predictive models, or otherwise mine actionable insights for them to improve their business.
+This portfolio summarizes my contributions and key takeaways from the Spring 2025 capstone project for the MSBA program at the University of Utah, where we analyzed a variety of data from a team of actual analysts from Swire Coca Cola (a major bottling and distribution partner of the Coca Cola Company), including customer profiles, transactions, and delivery costs, to identify trends, create predictive models, or otherwise mine actionable insights for SCC to improve their business.
 
 # Table of Contents
 
